@@ -14,6 +14,7 @@ public class App
     {
 	System.out.println( "Hello World!" );
     	String message = "Hello, World";
+	    String message = "Hello, World";
 //    	Log.debug(message);
     	LOG.debug("This Will Be Printed On Debug");
         LOG.info("This Will Be Printed On Info");
