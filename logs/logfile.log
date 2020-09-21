@@ -1,0 +1,5 @@
+INFO  | 2020-09-20 20:39:41 | [main] javapractice.App (App.java:19) - This Will Be Printed On Info
+WARN  | 2020-09-20 20:39:41 | [main] javapractice.App (App.java:20) - This Will Be Printed On Warn
+ERROR | 2020-09-20 20:39:41 | [main] javapractice.App (App.java:21) - This Will Be Printed On Error
+FATAL | 2020-09-20 20:39:41 | [main] javapractice.App (App.java:22) - This Will Be Printed On Fatal
+INFO  | 2020-09-20 20:39:41 | [main] javapractice.App (App.java:23) - Appending string: Hello, World.
